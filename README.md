@@ -1,2 +1,2 @@
 # titanicAnalysis
-Including relavent files  
+Including all relavent files for data analysis
