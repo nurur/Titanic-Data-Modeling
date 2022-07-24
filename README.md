@@ -1,2 +1,2 @@
 # titanicAnalysis
-Including all relavent files for data analysis
+Including all relevant files for Titanic data analysis
